@@ -4,8 +4,6 @@
   "id": "qa",
   "name": "QA",
   "configKey": "qa",
-  "enabledByDefault": true,
-  "canDisable": true,
   "requires": ["economy", "chat"],
   "permissions": [
     "config:read:qa",
